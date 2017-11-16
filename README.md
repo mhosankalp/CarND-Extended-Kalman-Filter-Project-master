@@ -8,10 +8,12 @@ This is the C++ code to implement extended kalman filter.
 
 The final RMSE for dataset 1 is [0.0973, 0.0855, 0.4513, 0.4399]. See figure below in the simulator
 
-
+  <img width="632" alt="screen shot 2017-11-16 at 2 09 29 pm" src="https://user-images.githubusercontent.com/22051168/32910667-df2983d8-cad7-11e7-9df5-2af73d473e27.png">
 
 
 The final RMSE for dataset 2 is [0.0726, 0.0965, 0.4216, 0.4932]. See figure below in the simulator
+
+  <img width="633" alt="screen shot 2017-11-16 at 2 09 13 pm" src="https://user-images.githubusercontent.com/22051168/32910676-e718646a-cad7-11e7-9014-c3474435c827.png">
 
 
 
