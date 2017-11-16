@@ -8,6 +8,7 @@ tools.cpp is to function to calculate RMSE and the Jacobian matrix.
 
 The final RMSE for dataset 1 is [0.0973, 0.0855, 0.4513, 0.4399]. See figure below in the simulator
 
+The final RMSE for dataset 2 is [0.0726, 0.0965, 0.4216, 0.4932]. See figure below in the simulator
 
-Screen Shot 2017-11-16 at 1.51.07 PM.png
+
 
